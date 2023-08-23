@@ -1,5 +1,6 @@
 <?php
 
-echo "Teste 2";
+
+$v = true;
 
 ?>
